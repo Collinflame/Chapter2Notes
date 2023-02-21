@@ -13,15 +13,15 @@
 // }
 
 // Question 13
-let answer12 = readline.question( "Enter A, B, or C:");
-while (answer12 != "A" && answer12 != "B" && answer12 != "C"){
-    console.log ("Invalid Answer");
-    answer12 = readline.question( "Enter A, B, or C:");
-}
+// let answer13 = readline.question( "Enter A, B, or C:");
+// while (answer13 != "A" && answer13 != "B" && answer13 != "C"){
+//     console.log ("Invalid Answer");
+//     answer13 = readline.question( "Enter A, B, or C:");
+// }
 
-// Question 13
-let answer12 = readline.question( "Enter A, B, or C:");
-while (answer12 != "A" && answer12 != "B" && answer12 != "C"){
+// Question 14
+let answer14 = readline.question( "Enter 1, 2, or 3:");
+while (answer14 != "1" && answer14 != "2" && answer14 != "3"){
     console.log ("Invalid Answer");
-    answer12 = readline.question( "Enter A, B, or C:");
+    answer14 = readline.question( "Enter 1, 2, or 3:");
 }
