@@ -76,13 +76,14 @@ const readline = require('readline-sync');
 // }
 
 //Question 10
-let start=0;
-while (start <= 100){
-    if (start < 10 && start > 20){
-        console.log(start);
-    } else if (start < 40 && start > 50) {
-        console.log(start);
-    }
-    start++;
-}
-// && doesn't work
+// let start2=0;
+// while (start2 <= 100){
+//     if (start2 < 10){
+//         console.log(start2);
+//     } else if (start2 > 20 && start2 < 40) {
+//         console.log(start2);
+//     } else if (start2 > 50) {
+//         console.log(start2);
+//     }
+//     start2++;
+// }
