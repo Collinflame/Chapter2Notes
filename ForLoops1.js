@@ -69,7 +69,17 @@ const readline = require('readline-sync');
 // }
 
 //Question 12
-// let holidaynum = Number (readline.question ("Enter The Amount of Holiday Messages You Want to Receive:"));
-// for (let i = 0; i < holidaynum; i++){
-//     console.log("Happy Holidays!");
+// let sum = 0;
+// for (let i = 100; i <= 200; i++){
+//     if (i % 2 == 1)
+//     sum += i;
 // }
+// console.log(sum);
+
+//Question 13
+// let sum = 1;
+// for (let i = 25; i <= 50; i++){
+//     if (i % 2 == 1)
+//         sum *= i;
+// }
+// console.log(sum);

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216c5e7b-010f-4f97-8791-9f2e0ccef206" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ForLoops.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoops1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoops1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoops1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -127,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ForLoops1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="559">
+              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
               <folding>
                 <element signature="e#121#133#0" />
               </folding>
@@ -246,6 +245,8 @@
       <workItem from="1677100874356" duration="3415000" />
       <workItem from="1677187499238" duration="3124000" />
       <workItem from="1677272055827" duration="3000" />
+      <workItem from="1677274232590" duration="107000" />
+      <workItem from="1677275040436" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="initial control">
       <created>1675719077314</created>
@@ -296,11 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677104284807</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="for loops">
+      <created>1677274330261</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677274330261</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35032000" />
+    <option name="totallyTimeSpent" value="35430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +334,7 @@
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17659806" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17659806" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -359,7 +367,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial control" />
     <MESSAGE value="while loops updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loops updated" />
+    <MESSAGE value="for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loops" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Input4.js" />
@@ -460,8 +469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ForLoops1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="559">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
           <folding>
             <element signature="e#121#133#0" />
           </folding>
