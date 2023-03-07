@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216c5e7b-010f-4f97-8791-9f2e0ccef206" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fizzbuzz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForLoops1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoops1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoops.js" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoops.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,15 +18,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Variables.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="731">
@@ -37,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InputNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-67">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -46,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Input1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
+            <state relative-caret-position="-373">
               <caret line="69" column="84" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="84" />
             </state>
           </provider>
@@ -55,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Input2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
+            <state relative-caret-position="841">
               <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
             </state>
           </provider>
@@ -64,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WhileLoops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="239">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -94,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WhileLoops2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-714">
               <caret selection-end-column="42" />
               <folding>
                 <element signature="e#760#774#0" />
@@ -111,11 +103,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ForLoops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="256">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="21" />
               <folding>
-                <element signature="e#13#46#0" />
-                <element signature="e#79#112#0" />
                 <element signature="e#271#307#0" />
                 <element signature="e#375#390#0" />
               </folding>
@@ -123,13 +113,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ForLoops1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
+                <element signature="e#44#56#0" />
                 <element signature="e#121#133#0" />
+                <element signature="e#197#209#0" />
+                <element signature="e#281#293#0" />
+                <element signature="e#396#408#0" />
+                <element signature="e#515#527#0" />
+                <element signature="e#622#634#0" />
+                <element signature="e#730#742#0" />
+                <element signature="e#837#849#0" />
+                <element signature="e#945#958#0" />
+                <element signature="e#1037#1050#0" />
+                <element signature="e#1247#1260#0" />
+                <element signature="e#1381#1394#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fizzbuzz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="e#44#78#0" />
               </folding>
             </state>
           </provider>
@@ -167,6 +181,7 @@
         <option value="$PROJECT_DIR$/WhileLoops2.js" />
         <option value="$PROJECT_DIR$/ForLoops.js" />
         <option value="$PROJECT_DIR$/ForLoops1.js" />
+        <option value="$PROJECT_DIR$/fizzbuzz.js" />
       </list>
     </option>
   </component>
@@ -176,7 +191,9 @@
     <option name="width" value="976" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -246,7 +263,8 @@
       <workItem from="1677187499238" duration="3124000" />
       <workItem from="1677272055827" duration="3000" />
       <workItem from="1677274232590" duration="107000" />
-      <workItem from="1677275040436" duration="291000" />
+      <workItem from="1677275040436" duration="443000" />
+      <workItem from="1678225385673" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="initial control">
       <created>1675719077314</created>
@@ -304,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677274330261</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="for loops update">
+      <created>1677275470955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677275470955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35430000" />
+    <option name="totallyTimeSpent" value="37309000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,6 +346,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,7 +360,7 @@
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17659806" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4864572" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -368,7 +394,8 @@
     <MESSAGE value="initial control" />
     <MESSAGE value="while loops updated" />
     <MESSAGE value="for loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loops" />
+    <MESSAGE value="for loops update" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loops update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Input4.js" />
@@ -389,31 +416,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Input2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForLoops1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#44#56#0" />
+            <element signature="e#121#133#0" />
+            <element signature="e#197#209#0" />
+            <element signature="e#281#293#0" />
+            <element signature="e#396#408#0" />
+            <element signature="e#515#527#0" />
+            <element signature="e#622#634#0" />
+            <element signature="e#730#742#0" />
+            <element signature="e#837#849#0" />
+            <element signature="e#945#958#0" />
+            <element signature="e#1037#1050#0" />
+            <element signature="e#1247#1260#0" />
+            <element signature="e#1381#1394#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/InputNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-67">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Input1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
+        <state relative-caret-position="-373">
           <caret line="69" column="84" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Input2.js">
+    <entry file="file://$PROJECT_DIR$/ForLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WhileLoops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="256">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#271#307#0" />
+            <element signature="e#375#390#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,9 +489,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WhileLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WhileLoops2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-714">
           <caret selection-end-column="42" />
           <folding>
             <element signature="e#760#774#0" />
@@ -451,28 +511,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForLoops.js">
+    <entry file="file://$PROJECT_DIR$/fizzbuzz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="102">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <element signature="e#13#46#0" />
-            <element signature="e#79#112#0" />
-            <element signature="e#141#175#0" />
-            <element signature="e#205#240#0" />
-            <element signature="e#271#307#0" />
-            <element signature="e#375#390#0" />
-            <element signature="e#469#484#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ForLoops1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-          <folding>
-            <element signature="e#121#133#0" />
+            <element signature="e#44#78#0" />
           </folding>
         </state>
       </provider>
